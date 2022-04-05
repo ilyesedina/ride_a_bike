@@ -1,12 +1,7 @@
-# TuaBike Ecommerce Website
+# Ride a Bike Ecommerce Website
 
     Ecommerce Website Using HTML CSS & JavaScript | Bicycle Website
     Only frontend focuses on UX design and animation.
-
-# Description
-
-    We will Make Ecommerce Website Using HTML CSS & JavaScript
-
 # Resource
 
     Google font: https://fonts.google.com/
