@@ -437,4 +437,14 @@ header.shrink {
         margin-top: 247px;
     }
 }
+@media(max-width:450px){
+    .slide-description {
+        margin-top: 215px;
+    }
+}
+@media(max-width:370px){
+    .slide-description {
+        margin-top: 180px;
+    }
+}
 /*Hero slide end*/
