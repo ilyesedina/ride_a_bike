@@ -411,7 +411,7 @@ header.shrink {
         margin-top: 288px;
     }
     .slide-btn {
-        margin-top: 60px;
+        margin-top: 40px;
     }
     .slide-img {
         width: 87%;
@@ -422,9 +422,10 @@ header.shrink {
         z-index: 1;
     }
     .hero-txt {
-        right: -188px;
+        right: -170px;
         font-size: 6.5rem;
         z-index: -9;
+        opacity: 0.5;
     }
 
 }
