@@ -394,7 +394,7 @@ header.shrink {
         -webkit-text-stroke-width: 2px;
     }
     .slide-control {
-        bottom: 60px;
+        bottom: 85px;
     }
     .slide-txt {
         width: 83%;
@@ -411,7 +411,7 @@ header.shrink {
         margin-top: 288px;
     }
     .slide-btn {
-        margin-top: 40px;
+        margin-top: 95px;
     }
     .slide-img {
         width: 60%;
@@ -543,7 +543,7 @@ header.shrink {
         padding: unset !important;
     }
     .section {
-        padding: 4rem 0 0;
+        padding: 8rem 0 0;
     }
     .photo-parent {
         position: relative;
