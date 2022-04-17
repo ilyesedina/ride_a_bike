@@ -26,12 +26,14 @@
     box-sizing: border-box;
     user-select: none;
 }
-
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
 body {
     background-color: var(--main-color);
     color: var(--txt-color);
     font-family: MyriadProCondensed, sans-serif;
-    overflow-x: hidden;
 }
 
 a {
@@ -146,7 +148,7 @@ header.shrink {
     .main-menu-wrapper .main-menu{
         position: fixed;
         left: -100%;
-        top: 110px;
+        top: 90px;
         gap: 0;
         flex-direction: column;
         background-color: var(--main-color);
