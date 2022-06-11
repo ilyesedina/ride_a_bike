@@ -442,6 +442,9 @@ header.shrink {
         width: 73%;
         padding-top: 62px;
     }
+    .third-section {
+        margin-top: 1030px;
+    }
 }
 @media(max-width:620px){
     :root {
